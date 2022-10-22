@@ -33,7 +33,7 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
-- 📫 How to reach me *shravniguddi@gmail.com*
+- 📫 How to reach me *gk4051668@gmail.com*
 
 - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
 
@@ -45,7 +45,7 @@
 <br />
 
 <p align="center">
-<a href="https://twitter.com/SHRAVANIMISHR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/GOVINDKUAMR3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/govind-kumar-9242ba250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Govind-Kumar" height="30" width="40" /></a>
 </p>
 <br />
