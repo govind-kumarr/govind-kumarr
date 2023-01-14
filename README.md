@@ -25,7 +25,9 @@
 
 - 🌱 I’m currently learning *Frontend*
 
-- 📄 Check out my [Resume]
+- 🎯 I also solve problems on [leetcode](https://leetcode.com/govind-kumar/)
+
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1iretcLj2IrMD-mL453ev_j-mQGixIQkF/view?usp=sharing)
 
 - 💻 Know more about me [Portfolio](https://govind-kumarr.github.io/)
 
@@ -132,7 +134,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/govind-kumarr/github-readme-activity-graph"><img alt="govind-kumarr Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=govind-kumarr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/govind-kumarr/github-readme-activity-graph"><img alt="govind-kumarr Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=govind-kumarr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
