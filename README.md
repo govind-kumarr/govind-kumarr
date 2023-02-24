@@ -1,62 +1,44 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" width="40%"/>
-</div>
+ <img style="position: relative;" src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="">
 
+<!-- <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473x0h6z25ch2337duxm3gapo46tl3l3s8kjnuxp08&rid=200w.webp&ct=g" >  -->
+<h1 align="center">Hi 👋, I'm Govind Kumar</h1>
+<h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Govind Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=govind-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="govind-kumarr" /> </p>
-
-<h3 align="center">A passionate Full Stack Developer in making</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Govind 🏽; I am a Full-stack%20web%20developer 🏻‍💻;I am interested in Coding awesome websites♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-</p>
-
-
-
-## 🙋‍♂️ About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="govind-kumarr" /> </p>
+<h2> 📖About Me :</h2>
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning *Frontend*
+- 🎯I have solve 200+ problems on [LEETCODE](https://leetcode.com/govind-kumar/)
 
-- 🎯 I also solve problems on [leetcode](https://leetcode.com/govind-kumar/)
+- 🌱 I’m currently learning **Angular**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1iretcLj2IrMD-mL453ev_j-mQGixIQkF/view?usp=sharing)
+- 💬 Ask me about **HTML, CSS, Chakra, JavaScript, React , DSA.**
 
-- 💻 Know more about me [Portfolio](https://govind-kumarr.github.io/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iretcLj2IrMD-mL453ev_j-mQGixIQkF/view?usp=sharing)
 
-- 💻 All of my projects are available at **[My Github Repositories](https://github.com/govind-kumarr?tab=repositories)**
+- 💞️ I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
+- 📫 How to reach me **gk4051668@gmail.com**
 
-- 📫 How to reach me *gk4051668@gmail.com*
+- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
+<h3><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" height="30" width="30"/>
+ I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
-- ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
+<br>
+<hr>
+<h2 align="left"> 📫 Connect with me :</h2>
+<p align="center" >
 
+<a href="https://www.linkedin.com/in/govind-kumar-9242ba250/" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/akshay-chauhan-6911561b0/" height="30" width="100" /></a>
+<a href="https://github.com/govind-kumarr" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/govind-kumarr" height="30" width="100" /></a>
+<a href="gk4051668@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="akshaysingh906022@gmail.com" height="30" width="100" /></a>
 
-<hr />
-
-
-<h2 align="center">📱 Connect with me</h2>
-<br />
-
-<p align="center">
-<a href="https://twitter.com/GOVINDKUAMR3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/govind-kumar-9242ba250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Govind-Kumar" height="30" width="40" /></a>
 </p>
-<br />
-
-<hr />
-
-
-<h2 align="center">🚀 Languages and Tools:</h2>
-<br/>
+  
+<br>
+<hr>
+<h2 align="left"> 🚀 Languages and Tools :</h2>
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
@@ -64,77 +46,42 @@
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="./assets/angular.svg" height="100" width="100" align="center" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="50" align="center" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
+<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+
 </div>
- <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+
  </div>
-  
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
-<br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
 
-<br/>
-<!-- <br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-
-<br />
-<br /> -->
-<br/>
-
-
-
-<br/>
-
-
 <hr />
 
-
-<h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/govind-kumarr/github-readme-stats"><img alt="govind-kumarr Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-kumarr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
-   <p align="center">
-    <a href="https://github.com/govind-kumarr/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="govind-kumarr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=govind-kumarr&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>                                                                                                                                              
+  <p align="center" width="50%"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govind-kumarr&theme=react&bg_color=0D1117" alt="govind-kumarr"  /></p>  <p align="center">
 
   <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/govind-kumarr/github-readme-stats"><img alt="govind-kumarr Github Stats" src="https://github-readme-stats.vercel.app/api?username=govind-kumarr&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="govind-kumarr" /></a>
-    </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
-
-<br/>
+<a href="https://github.com/govind-kumarr/github-readme-activity-graph"><img alt="Govind Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=govind-kumarr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br> -->
 <br/>
 
-<!-- <a href="https://github.com/govind-kumarr/github-readme-activity-graph"><img alt="govind-kumarr Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=govind-kumarr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<p align="center">  
+ <a href="https://github.com/govind-kumarr/github-readme-stats"><img alt="govind-kumarr Github Stats" src="https://github-readme-stats.vercel.app/api?username=govind-kumarr&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></a>
+</p>
 
-<br/>
-<br/>
+<h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
